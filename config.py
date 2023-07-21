@@ -1,0 +1,5 @@
+
+openjourney = "prompthero/openjourney:ad59ca21177f9e217b9075e7300cf6e14f7e5b4505b87b9689dbd866e9768969"
+kandinsky = "ai-forever/kandinsky-2.2:ea1addaab376f4dc227f5368bbd8eff901820fd1cc14ed8cad63b29249e9d463"
+stable_diffusion_high_resolution = "cjwbw/stable-diffusion-high-resolution:231e401da17b34aac8f8b3685f662f7fdad9ce1cf504ec0828ba4aac19f7882f"
+REPLICATE_API_TOKEN = ""
